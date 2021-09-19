@@ -1,0 +1,154 @@
+body {
+  background: #000000;
+}
+
+.jumb-dark {
+  background: rgba(87, 93, 99, 0.733);
+  color: white;
+}
+
+.mainText {
+  font-family: "Besley", serif;
+  color: #231f20;
+}
+
+.otherText {
+  font-family: "Besley", serif;
+  color: #f15a29;
+}
+
+.headText {
+  font-family: "Kaisei HarunoUmi", serif;
+  color: white;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+p {
+  font-family: "Kaisei HarunoUmi", serif;
+  color: white;
+}
+
+.discover {
+  color: #f15a29;
+}
+
+.logo-pic {
+  height: 100px;
+}
+
+.pic-text {
+  font-family: "Kaisei HarunoUmi", serif;
+}
+
+footer {
+    padding-top: 2rem;
+    background: rgba(87, 93, 99, 0.733);
+    color: white;
+}
+
+.product-pic {
+    height: 300px;
+    width: 300px;
+}
+
+.difColor {
+  color: #f15a29;
+}
+
+.dark {
+  background: #000000;
+  width: 100%;
+}
+
+.pic-size {
+  height: 150px;
+}
+
+.divToScroll{   
+    background-color: #F5F5F5;
+    border: 1px solid #DDDDDD;
+    border-radius: 4px 0 4px 0;
+    color: #3B3C3E;
+    font-size: 12px;
+    font-weight: bold;
+    left: -1px;
+    padding: 10px 7px 5px;
+}
+
+.divWithScroll{
+    height:200px;
+    overflow:scroll;
+    overflow-x:hidden;
+}
+
+.button-outline-variant {
+  color: #f15a29;
+  border-color: #f15a29;
+}
+
+.button-outline-variant:hover {
+  background-color: #f15a29;
+  border-color: #f15a29;
+}
+
+.colorText {
+  color:black;
+}
+
+.decorImg {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+
+.shipText {
+  color:#f15a29;
+}
+
+.shipTitle {
+  border-bottom: solid white 1px;
+  padding-bottom: 12px;
+}
+
+.itemText {
+  color: gray;
+}
+
+.cartImg {
+  height: 150px;
+  width: 150px;
+  margin-right: 2rem;
+}
+
+.cart-item-Quantity {
+  height: 2.5rem;
+}
+
+.textGreen {
+  color: green;
+}
+
+.cartItem {
+  border-bottom: solid white 1px;
+}
+
+.removeColor {
+  text-decoration: none;
+  color: inherit;
+}
+
+.orderBorder {
+  border-bottom: solid white 1px;
+  padding-bottom: 10px;
+}
+
+.decorImg {
+  height: 300px;
+  width: 300px;
+}
+
+.paintImg {
+  height: 400px;
+  width: 400px;
+}
